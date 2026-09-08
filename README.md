@@ -93,9 +93,6 @@ to understand their contribution to overall sales.
 - Outlet performance varies across different outlet types and sizes.
 - Sales trends across outlet establishment years show variations in performance over time.
 
-## 🖼️ Dashboard Preview
-
-![Blinkit Dashboard](Sales.png)
 
 ## 📂 Project Files
 
