@@ -6,6 +6,10 @@ This project analyzes Blinkit's grocery sales data to understand sales performan
 
 The raw grocery dataset was analyzed and transformed into an interactive Power BI dashboard to generate meaningful business insights and support data-driven decision-making.
 
+## 📊 Dashboard Preview
+
+![Blinkit Dashboard](Dashboard.png)
+
 ## 🎯 Business Objectives
 
 - Analyze overall sales performance
